@@ -9,9 +9,6 @@ Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케�
 
 
 ## Packages
-설치할 각 패키지(모듈)의 설치 버전이 예제와 다른 경우 사용법이 달라질 수 있기 때문에,
-모든 패키지를 완성 예제의 package.json 파일에 명시된 버전과 동일하게 설치하는 것을 권장합니다.
-
 + snowpack: 프로젝트를 빌드하기 위한 핵심 패키지입니다.
 + @snowpack/plugin-svelte: Snowpack에서 Svelte를 해석할 수 있습니다. svelte-preprocess가 같이 설치됩니다.
 + @snowpack/plugin-dotenv: 환경 변수를 사용합니다.(.env 파일)
