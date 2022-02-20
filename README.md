@@ -10,7 +10,6 @@ Svelte.js와 picsum.photos API를 사용하는 [이미지 갤러리 애플리케
 ## Packages
 + snowpack: 프로젝트를 빌드하기 위한 핵심 패키지입니다.
 + @snowpack/plugin-svelte: Snowpack에서 Svelte를 해석할 수 있습니다. svelte-preprocess가 같이 설치됩니다.
-+ @snowpack/plugin-dotenv: 환경 변수를 사용합니다.(.env 파일)
 + @snowpack/plugin-sass: SCSS를 사용합니다. sass가 같이 설치됩니다.
 + @snowpack/plugin-optimize: 결과를 압축하고 번들링하는 등 최종 결과를 최적화합니다.
 + @snowpack/plugin-babel: 프로젝트의 JavaScript 파일을 변환합니다. 콘솔 제거 패키지를 사용하기 위해 구성합니다.
