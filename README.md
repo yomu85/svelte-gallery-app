@@ -1,12 +1,12 @@
 # svelte-gallery-app
 Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케이션입니다.
+배포 사이트 : https://compassionate-khorana-f823ff.netlify.app/
 
 ## Specs
 + [Svelte.js](https://svelte.dev/)
 + [Snowpack](https://www.snowpack.dev/)
 + [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
 + [picsum.photos API](https://picsum.photos/)
-
 
 ## Packages
 + snowpack: 프로젝트를 빌드하기 위한 핵심 패키지입니다.
