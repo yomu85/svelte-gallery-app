@@ -27,11 +27,11 @@ Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케�
 + qs: 쿼리스트링(Query String)을 분석하는 라이브러리입니다.
 
 ## Build Setup
-install dependencies
-npm install
++ install dependencies
+* npm install
 
-serve with hot reload at localhost:8080
-npm run dev
++ serve with hot reload at localhost:8080
+* npm run dev
 
-build for production with minification
-npm run build
++ build for production with minification
+* npm run build
