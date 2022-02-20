@@ -1,6 +1,6 @@
 # svelte-gallery-app
 Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케이션입니다.
-+ [svelte-gallery-app 배포 사이트](https://compassionate-khorana-f823ff.netlify.app/)
+[svelte-gallery-app](https://compassionate-khorana-f823ff.netlify.app/)
 
 ## Specs
 + [Svelte.js](https://svelte.dev/)
