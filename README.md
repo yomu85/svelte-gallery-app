@@ -25,3 +25,13 @@ Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케�
 + postcss: CSS 후처리 패키지로 autoprefixer를 사용하기 위해 설치합니다.
 + axios: HTTP 클라이언트 라이브러리로, OMDb API를 통해 영화 정보를 요청하기 위해 사용합니다.
 + qs: 쿼리스트링(Query String)을 분석하는 라이브러리입니다.
+
+## Build Setup
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
