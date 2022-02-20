@@ -35,7 +35,7 @@ npm install
 ```
 npm run dev
 ```
-> snowpack build 
+> snowpack build 실행
 ```
 npm run build
 ```
