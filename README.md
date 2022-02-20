@@ -3,6 +3,7 @@ Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케�
 
 ## Specs
 + Svelte.js
++ [네이버 바로가기](http://www.naver.com/)
 + Snowpack
 + Svelte SPA Router
 + picsum.photos API
