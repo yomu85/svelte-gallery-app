@@ -23,7 +23,5 @@ Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케�
 + svelte-spa-router: SPA에 최적화된 Hash 기반 라우팅을 활용할 수 있습니다.
 + autoprefixer: CSS에 자동으로 공급 업체 접두사(Vendor prefix)를 적용합니다.
 + postcss: CSS 후처리 패키지로 autoprefixer를 사용하기 위해 설치합니다.
-+ lodash: 다양한 유틸리티 기능을 제공하는 자바스크립트 라이브러리입니다.
 + axios: HTTP 클라이언트 라이브러리로, OMDb API를 통해 영화 정보를 요청하기 위해 사용합니다.
 + qs: 쿼리스트링(Query String)을 분석하는 라이브러리입니다.
-+ netlify-cli: Netlify 명령
