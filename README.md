@@ -28,8 +28,9 @@ Svelte.js와 picsum.photos API를 사용하는 이미지 갤러리 애플리케�
 
 ## Build Setup
 > install dependencies
+```
 npm install
-
+```
 > serve with hot reload at localhost:8080
 npm run dev
 
