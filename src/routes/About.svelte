@@ -8,7 +8,6 @@
   $: name = query.name || 'yomu85'
   $: email = query.email || 'yomu85@gmail.com'
   $: blog = query.blog || 'https://github.com/yomu85'
-  $: phone = query.phone || '010-4082-0806'
   $: image = query.image || '/assets/k_yellow.png'
 </script>
 
@@ -25,7 +24,6 @@
     <div class="name">{name}</div>
     <div class="email">{email}</div>
     <div class="blog">{blog}</div>
-    <div class="phone">{phone}</div>
   </div>
 </div>
 
