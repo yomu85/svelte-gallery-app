@@ -1,5 +1,5 @@
 # svelte-gallery-app
-Svelte.js와 Lorem Picsum API를 사용하는 [이미지 갤러리 애플리케이션](https://compassionate-khorana-f823ff.netlify.app/) 입니다.
+Svelte.js와 Lorem Picsum API를 사용하는 [이미지 갤러리 애플리케이션](https://day-gallery.netlify.app/) 입니다.
 
 ## Specs
 + [Svelte.js](https://svelte.dev/)
